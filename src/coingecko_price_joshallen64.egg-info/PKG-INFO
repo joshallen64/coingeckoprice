@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: coingecko-price-joshallen64
+Version: 0.0.1
+Summary: A wrapper for CoinGecko api to fetch a single historical price
+Home-page: https://github.com/joshallen64/coingeckoprice
+Author: Joshua Allen
+Author-email: joshualallen@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/joshallen64/coingeckoprice/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Financial and Insurance Industry
+Classifier: Topic :: Office/Business :: Financial
+Classifier: Topic :: Office/Business :: Financial :: Accounting
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# coingeckoprice
+
+A wrapper for the CoinGecko python API to retrieve a historical price from CoinGecko and convert it to a fiat currency (Default to Canadian Dollars).
+
+
