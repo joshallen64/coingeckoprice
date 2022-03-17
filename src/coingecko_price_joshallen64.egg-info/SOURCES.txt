@@ -1,8 +1,0 @@
-LICENSE
-README.md
-pyproject.toml
-setup.cfg
-src/coingecko_price_joshallen64.egg-info/PKG-INFO
-src/coingecko_price_joshallen64.egg-info/SOURCES.txt
-src/coingecko_price_joshallen64.egg-info/dependency_links.txt
-src/coingecko_price_joshallen64.egg-info/top_level.txt

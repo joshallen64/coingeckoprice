@@ -1,7 +1,7 @@
 Metadata-Version: 2.1
-Name: coingecko-price-joshallen64
-Version: 0.0.1
-Summary: A wrapper for CoinGecko api to fetch a single historical price
+Name: coingecko-price
+Version: 0.0.2
+Summary: A wrapper for the CoinGecko api to fetch a single historical price
 Home-page: https://github.com/joshallen64/coingeckoprice
 Author: Joshua Allen
 Author-email: joshualallen@gmail.com

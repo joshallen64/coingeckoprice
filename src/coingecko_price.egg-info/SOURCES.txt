@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/coingecko_price.egg-info/PKG-INFO
+src/coingecko_price.egg-info/SOURCES.txt
+src/coingecko_price.egg-info/dependency_links.txt
+src/coingecko_price.egg-info/top_level.txt
+src/coingeckoprice/__init__.py
+src/coingeckoprice/coingeckoprice.py
